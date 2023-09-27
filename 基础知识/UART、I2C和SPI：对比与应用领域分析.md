@@ -78,3 +78,4 @@
 
 综上所述，UART、I2C和SPI各有优缺点和应用场景。UART由于其简单性和灵活性，是最易于实现和使用的。I2C则因其能在两条线上支持多设备通信而显得更为高效。SPI则以其高速数据传输能力在需要快速数据流的应用中占有一席之地。因此，在选择通信协议时，应根据具体的应用需求和限制来做出决策。
 
+https://book.mraddict.vercel.app/MCU-Communication/Serial/UART/Chapter1.html
